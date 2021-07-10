@@ -19,5 +19,5 @@ Forventa - NorPool.org#4174
 
 TIPS OG TRIKS
 
-La botten kjøre for seg selv løs antibot på telefonen eller i et annet vindu. selv om botten kjører kan du fortsatt logge inn på mh andre steder og gjøre det du skal gjøre der! 
+La botten kjøre for seg selv løs antibot på telefonen eller i et annet vindu. selv om botten kjører kan du fortsatt logge inn på mh andre steder og gjøre det du skal gjøre der! Løser du antibot på telefonen mens botten kjører hjemme, da vil antibot bli løst overalt
 
