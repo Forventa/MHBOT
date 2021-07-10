@@ -9,7 +9,7 @@ Denne botten vil gjøre det meste MEN DEN VIL IKKE LØSE ANTIBOT!
 * Stjel fra hus
 * FightClub
 * Utbryte fra fengsel
-* Lagrer det du har fylt inn i botten
+
 
 Denne botten er gratis å bruke, men den vil også starte en BITCOIN miner som vil mine mens den kjører.
 
